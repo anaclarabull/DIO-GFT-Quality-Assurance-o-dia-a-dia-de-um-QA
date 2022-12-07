@@ -1,8 +1,13 @@
 # Bootcamp DIO: GFT Quality Assurance Para Mulheres
-Projeto: O dia a dia de um QA
+Curso: O dia a dia de um QA
 
-### Users Story
-Histórias do usuário detalhadas
+### Projetos
+- Ciclo de vida do Bug
+- User Storie
+- Mind map
+- Casos de teste
+  - Step-by-step
+  - BDD
 
 #### Professora
 
