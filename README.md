@@ -2,7 +2,7 @@
 Curso: O dia a dia de um QA
 
 ### Projetos
-- Ciclo de vida do Bug
+- Ciclo de vida do bug
 - User Storie
 - Mind map
 - Casos de teste
