@@ -14,3 +14,4 @@ Curso: O dia a dia de um QA
 ![author](https://hermes.digitalinnovation.one/users/author/photos/084bc553-3d5b-475d-b38e-75f54b5299b3.jpg)
 
 Carolina Louzada
+
